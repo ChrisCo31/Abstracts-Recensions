@@ -1,2 +1,2 @@
-# Abstracts-Recensions
-Fiches de resumes d'articles de presse
+# Abstracts & Recensions
+Fiches de resumes en francais d'articles de presse 
